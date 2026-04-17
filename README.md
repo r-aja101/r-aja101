@@ -12,8 +12,7 @@
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-grey?style=flat&logo=instagram)](https://instagram.com/r_aja4)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-grey?style=flat&logo=linkedin)](https://linkedin.com/in/raja-y-al)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-grey?style=flat&logo=linkedin)](https://www.linkedin.com/in/raja-y-al-kharsha-4338783a6)
 </div>
 
 <hr>
