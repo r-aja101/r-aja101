@@ -28,6 +28,12 @@
 
 ![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
 
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=r_aja4&theme=dark" />
+</p>
+
 ```dart
 class About {
   const myTools = {  
@@ -36,3 +42,6 @@ class About {
     "Tools" : { "VSCode" }
   };
 }
+
+
+
