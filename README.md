@@ -32,8 +32,8 @@
 ```dart
 class About {
   const myTools = {  
-    "ProgrammingLanguages" : { "C++", "Python", "JavaScript" },
-    "WebBasics" : { "HTML", "CSS", "JSON" },
-    "Tools" : { "Git", "VSCode", "Linux" }
+    "ProgrammingLanguages" : { "C++", "Python"},
+    "WebBasics" : { "HTML", "CSS"},
+    "Tools" : { "VSCode" }
   };
 }
